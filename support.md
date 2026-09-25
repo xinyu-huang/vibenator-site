@@ -35,8 +35,9 @@ unmatched than attach it to the wrong release. You can pick a release by hand in
 the **Inspect/Fine-tune Enrichments** window.
 
 **Does Vibenator change my files?**
-Only when you write tags to them yourself. Scanning, identifying and
-deduplicating never modify, move or delete your music.
+No. Vibenator reads your music files and never modifies, moves or deletes them.
+What it learns is kept in its own library, and excluding a duplicate only hides
+it from the library.
 
 ## Privacy
 
