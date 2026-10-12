@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Gershwin Privacy Policy
 
-_Last updated: 29 September 2026_
+_Last updated: 12 October 2026_
 
 Gershwin is a music library application that runs entirely on your Mac. It has
 no accounts, no sign-in, and no servers operated by us. We do not collect,
@@ -84,4 +84,4 @@ a new date at the top.
 
 ## Contact
 
-Questions about this policy: xinyu.huang@gmail.com
+Questions about this policy: gershwin.appsupport@gmail.com

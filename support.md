@@ -5,7 +5,7 @@ permalink: /support/
 
 # Gershwin Support
 
-**Contact:** [xinyu.huang@gmail.com](mailto:xinyu.huang@gmail.com). Please include
+**Contact:** [gershwin.appsupport@gmail.com](mailto:gershwin.appsupport@gmail.com). Please include
 your macOS version and Gershwin's version (Gershwin ▸ About Gershwin).
 
 ## Requirements
