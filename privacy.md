@@ -5,11 +5,13 @@ permalink: /privacy/
 
 # Gershwin Privacy Policy
 
-_Last updated: 12 October 2026_
+_Last updated: 16 October 2026_
 
 Gershwin is a music library application that runs entirely on your Mac. It has
-no accounts, no sign-in, and no servers operated by us. We do not collect,
-store, receive, or transmit any personal information about you.
+no accounts, no sign-in, and no servers operated by us. The application does not
+collect, store, receive, or transmit any personal information about you. The
+only personal information we ever receive is what you choose to send us by email
+— see "Contacting support" below.
 
 ## What stays on your Mac
 
@@ -71,6 +73,19 @@ unless you turn this on.
 There are none. Gershwin contains no analytics framework, no advertising, no
 crash reporting service, and no tracking of any kind. Nothing about how you use
 the application is reported to us or to anyone else.
+
+## Contacting support
+
+Help ▸ Send Feedback… opens a new, unsent email to
+gershwin.appsupport@gmail.com in your own mail app, with Gershwin's version, your
+macOS version and your Mac model filled in. Gershwin does not send it — nothing
+leaves your Mac unless you read the draft and send it yourself, and you can edit
+or remove anything in it first. No log or library information is attached.
+
+If you do write to us, we receive your email address, your message and anything
+you include in it. We use them only to reply to you and to fix problems you
+report, never share or sell them, and delete them once they are no longer
+needed for that.
 
 ## Children
 
