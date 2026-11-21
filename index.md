@@ -11,3 +11,4 @@ UPnP/DLNA renderer on your network.
 
 - [Support](support/)
 - [Privacy Policy](privacy/)
+- [Sample music](sample-music/)
