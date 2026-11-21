@@ -1,5 +1,6 @@
 ---
 title: Sample music
+permalink: /sample-music/
 ---
 
 # Sample music
