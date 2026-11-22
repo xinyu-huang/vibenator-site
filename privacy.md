@@ -78,9 +78,21 @@ until you turn it on in Playback ▸ Remote Control.
 - If you tap the microphone in the iPhone or iPad app to speak a search or a
   question, it uses speech recognition on your device. Your voice is not recorded,
   stored or sent anywhere. iOS asks your permission the first time.
+- Questions you type or speak in the Ask tab are sent only to your Mac, which
+  answers them there with Apple Intelligence. If an answer needs background about
+  an album or performer, your Mac looks it up from the services listed above; the
+  Remote app contacts none of them itself, and your questions are not sent to us.
 - The Remote app keeps the pairing credential for your Mac on your device, in the
   Keychain. macOS and iOS ask your permission for local network access the first
   time; without it the Remote app cannot find your Mac.
+- On iPhone and iPad, what is playing on your Mac (title, artist and artwork) is
+  shown on the Lock Screen, in Control Center and as a Live Activity in the
+  Dynamic Island. This is drawn on your device from what your Mac reports. There is
+  no push notification service, and nothing about it is sent to us or to anyone
+  else.
+- "Try Demo" in the Remote app shows a built-in sample library that lives entirely
+  inside the app. It makes no network connection, does not ask for local network
+  access and stores nothing.
 
 ## Microphone
 
