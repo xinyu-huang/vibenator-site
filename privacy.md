@@ -75,6 +75,9 @@ until you turn it on in Playback ▸ Remote Control.
 - Your library, album art and what is playing travel only between your Mac and
   your own device. They are not sent to us or to any server, and there is no
   account, analytics, advertising or tracking in the Remote app either.
+- If you tap the microphone in the iPhone or iPad app to speak a search or a
+  question, it uses speech recognition on your device. Your voice is not recorded,
+  stored or sent anywhere. iOS asks your permission the first time.
 - The Remote app keeps the pairing credential for your Mac on your device, in the
   Keychain. macOS and iOS ask your permission for local network access the first
   time; without it the Remote app cannot find your Mac.
