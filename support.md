@@ -34,6 +34,15 @@ If you declined, turn it back on in System Settings ▸ Privacy & Security ▸ L
 Network, then restart Gershwin. The renderer and your Mac must be on the same
 network.
 
+**Gershwin Remote can't find my Mac.**
+Remote Control is off by default. On the Mac, open Playback ▸ **Remote Control…**
+and switch on "Allow Gershwin Remote apps on this network to control this Mac"
+(this needs Gershwin 1.1 or later). Your Mac and your iPhone, iPad or Apple TV must
+be on the same network. When asked, allow Local Network access on both. Then choose
+the Mac in the Remote app, click Allow on the Mac and type the six-digit code it
+shows into the Remote app within two minutes. To remove a device, revoke it in the
+same Remote Control window.
+
 **Some albums stay unmatched.**
 Not every release is in MusicBrainz, and Gershwin would rather leave an album
 unmatched than attach it to the wrong release. You can pick a release by hand in

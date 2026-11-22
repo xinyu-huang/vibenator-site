@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Gershwin Privacy Policy
 
-_Last updated: 16 October 2026_
+_Last updated: 22 November 2026_
 
 Gershwin is a music library application that runs entirely on your Mac. It has
 no accounts, no sign-in, and no servers operated by us. The application does not
@@ -59,6 +59,25 @@ If you play music to a UPnP/DLNA renderer, Gershwin discovers devices on your
 local network and serves audio to the device you select. This traffic stays on
 your network and reaches no one else. macOS will ask your permission the first
 time; if you decline, the rest of the application continues to work.
+
+## Gershwin Remote
+
+Gershwin Remote is a separate app for iPhone, iPad and Apple TV that controls
+Gershwin on your Mac. Remote Control is off by default on the Mac; nothing listens
+until you turn it on in Playback ▸ Remote Control.
+
+- The Remote app talks only to your own Mac, over your home network, using an
+  encrypted (TLS) connection. The Mac refuses connections from addresses outside
+  your private network, and nothing is routed to the internet.
+- A device must pair first: the Mac asks you to allow it and shows a six-digit
+  code that you type into the Remote app. You can revoke any paired device at any
+  time in the same window.
+- Your library, album art and what is playing travel only between your Mac and
+  your own device. They are not sent to us or to any server, and there is no
+  account, analytics, advertising or tracking in the Remote app either.
+- The Remote app keeps the pairing credential for your Mac on your device, in the
+  Keychain. macOS and iOS ask your permission for local network access the first
+  time; without it the Remote app cannot find your Mac.
 
 ## Microphone
 
